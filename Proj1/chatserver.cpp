@@ -144,7 +144,7 @@ std::string getResponse(FILE*);
 //Gets input from stdin
 std::string getInput();
 //Sends message through socket
-voi sendMessage(int, std::string);
+void sendMessage(int, std::string);
 
 int main(int argc, char* argv[]){
    //Check Command line arguments
