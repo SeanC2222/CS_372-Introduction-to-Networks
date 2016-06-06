@@ -1,0 +1,7 @@
+This is only a text.
+
+Lol.
+
+[END]
+
+Testing clobber.
